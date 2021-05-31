@@ -1,5 +1,5 @@
 <p>Add product sample with service repository pattern, having both API and web route for browser with common service and repository</p>
-
+<pDatabase file is attached in root folder as assignment.sql</p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
